@@ -1,0 +1,25 @@
+{
+  "name": "home-pi",
+  "version": "1.0.0",
+  "description": "Home Automation for Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuMavawala/Home-Pi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishnuMavawala/Home-Pi/issues"
+  },
+  "homepage": "https://github.com/VishnuMavawala/Home-Pi#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "pusher": "^2.0.0",
+    "pusher-js": "^4.2.2"
+  }
+}
