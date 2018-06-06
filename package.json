@@ -19,7 +19,6 @@
   "homepage": "https://github.com/VishnuMavawala/Home-Pi#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "pusher": "^2.0.0",
     "pusher-js": "^4.2.2"
   }
 }
